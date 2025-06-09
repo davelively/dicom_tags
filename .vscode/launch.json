@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run DICOM Tag Editor GUI",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/dicom_tag_editor_gui.py",
+            "console": "integratedTerminal",
+            "env": {},
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
